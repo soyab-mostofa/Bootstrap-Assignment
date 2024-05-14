@@ -4,10 +4,12 @@ This is a simple web page created as an assignment using HTML, CSS, and Bootstra
 
 ## Usage
 
-1. Clone the repository:
+1. View the project live on GitHub Pages: [Bootstrap Assignment](https://soyab-mostofa.github.io/Bootstrap-Assignment/)
+
+2. Clone the repository:
 
    ```bash
    git clone https://github.com/soyab-mostofa/bootstrap-assignment.git
    ```
 
-2. Open `index.html` in your web browser.
+3. Open `index.html` in your web browser.
